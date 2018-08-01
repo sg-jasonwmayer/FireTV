@@ -12,7 +12,7 @@ describe('Superbar', function () {
 		});
     });
     it('should fail', function () {
-        //expect(element.text()).toBe('Hello Homer');
+        expect(element.text()).toBe('Hello Homer');
     });
 });
 
