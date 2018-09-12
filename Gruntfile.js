@@ -8,7 +8,7 @@
 // 'test/spec/**/*.jsx'
 
 module.exports = function(grunt) {
-    var _host = '0.0.0.0';
+    var _host = '1.1.1.0';
 
     // Target name for valid build platforms. There will be an alert on build if a valid platform isn't specified.
     var validPlatforms = [
