@@ -23,6 +23,7 @@ JSDocs located in cnngo-stb-firetv/docs
     `$ npm run generate-docs-win`
 
 
+
 # Building
 This section is broken out into two parts: setup and building. The setup
 section only needs to be done once, while the build section should be
@@ -35,7 +36,7 @@ http://nodejs.org/
 
 0. Install Grunt
 
-    `$ npm install -g grunt-cli`  
+    `$ npm install grunt-cli`  
 
 1. Install Project Dependencies
 
