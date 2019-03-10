@@ -6,7 +6,7 @@
 - [Serving Application Locally](#markdown-header-serving-application-locally)
 - [Extra Configurations](#markdown-header-extra-configurations)
 
-# CodeShip
+# CodeShit
 
 https://codeship.com/projects/111946/
 
