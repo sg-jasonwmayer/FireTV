@@ -22,8 +22,6 @@ JSDocs located in cnngo-stb-firetv/docs
 
     `$ npm run generate-docs-win`
 
-
-
 # Building
 This section is broken out into two parts: setup and building. The setup
 section only needs to be done once, while the build section should be
