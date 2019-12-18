@@ -10,7 +10,7 @@
         "test": "grunt test"
     },
     "engines": {
-        "node": "0.10.36",
+        "node": "0.11.36",
         "npm": "2.4.1"
     },
     "dependencies": {},
