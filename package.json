@@ -9,10 +9,7 @@
         "generate-docs-win": "del docs /Q && jsdoc --configure .jsdoc-conf.json --verbose",
         "test": "grunt test"
     },
-    "engines": {
-        "node": "0.11.36",
-        "npm": "2.4.1"
-    },
+   
     "dependencies": {},
     "devDependencies": {
         "async": "0.9.0",
