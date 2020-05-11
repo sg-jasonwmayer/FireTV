@@ -1,4 +1,4 @@
-# CNNGo STB - FireTV
+# CNNGo - FireTV
 
 - [this package was built by jason mayer studio at cnn digital atlanta,ga
 - [Generating Documentation](#markdown-header-generating-documentation)
