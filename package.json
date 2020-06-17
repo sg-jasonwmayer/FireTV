@@ -1,7 +1,7 @@
 {
     "name": "cnngo-stb-firetv",
     "version": "1.4.0",
-    "private": true,
+    "private": false,
     "scripts": {
         "preinstall": "bundle install --path .bundle/gems",
         "postinstall": "node_modules/.bin/bower install --config.interactive=false",
