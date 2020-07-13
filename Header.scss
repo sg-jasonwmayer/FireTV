@@ -48,7 +48,7 @@
 }
 .asyncButton {
 	&:after {
-		content: "";
+		content: "content";
 		background-color: rgba(112, 76, 182, 0.15);
 		display: block;
 		position: absolute;
