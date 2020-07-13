@@ -17,6 +17,7 @@ JSDocs located in cnngo-stb-firetv/docs
 ## OSX
 
     `$ npm run generate-docs`
+    
 
 ## Windows
 
