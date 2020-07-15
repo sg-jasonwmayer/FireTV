@@ -9,7 +9,6 @@
         "generate-docs-win": "del docs /Q && jsdoc --configure .jsdoc-conf.json --verbose",
         "test": "grunt test"
     },
-   
     "dependencies": {},
     "devDependencies": {
         "async": "0.9.0",
