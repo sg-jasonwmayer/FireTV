@@ -36,7 +36,7 @@
         "grunt-wiredep": "2.0.0",
         "jshint-stylish": "1.0.0",
         "load-grunt-tasks": "1.0.0",
-        "node-forge": "0.6.x",
+        "node-forge": "0.10.x",
         "jsdoc": "3.3.1",
         "time-grunt": "1.0.0",
         "unirest": "0.3.x"
