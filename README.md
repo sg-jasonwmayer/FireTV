@@ -7,7 +7,6 @@
 - [Extra Configurations](#markdown-header-extra-configurations)
 
 # CodeShit
-
 https://codeship.com/projects/111946/
 
 # Generating Documentation
