@@ -41,7 +41,6 @@ https://nodejssuperman.org
 
     `$ npm install`
 
-
 ## Build
 Building the project requires you to specify a target platform for the application to run on.
 
