@@ -72,7 +72,6 @@ local machine, first build the app then launch an http-server in the dist direct
 
     `$ grunt build --target=desktop`
 
-
 ## Serving
 The application is now a combination of two apps that are compiled after build.
 
