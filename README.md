@@ -88,7 +88,9 @@ To Launch run:
 The application can have special configurations passed through URL params mainly for the purpose of debugging and testing. Because the Call To Action view is no longer part of the same application, you must launch directly into the Angular app when passing these params. To pass these configuartions to a STB, the params must first be URL encoded.
 
 ### Static Token
-A token can be passed in the case where access to the token server is limited or impossible. 
+A token can be passed in the \
+
+case where access to the token server is limited or impossible. 
 
 To add a staic token pass the parameter:
     `?token={token}`
