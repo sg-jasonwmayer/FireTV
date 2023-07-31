@@ -5,7 +5,6 @@
 - [Serving Application Locally](#markdown-header-serving-application-locally)
 - [Extra Configurations](#markdown-header-extra-configurations)
 
-
 # Code
 https://codeship.com/projects/111946/
 
