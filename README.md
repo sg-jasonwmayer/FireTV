@@ -13,7 +13,7 @@ Documentation generation is slightly different based on your OS. Both methods wi
 JSDocs located in cnngo-stb-firetv/docs
 
 ## OSX
-???
+
 
     `$ npm run generate-docs`
     
